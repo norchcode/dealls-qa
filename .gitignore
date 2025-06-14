@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Test artifacts
+test-results/
+reports/
+screenshots/
+playwright-report/
+
+# TypeScript compilation
+dist/
+
+# Environment files
+.env
+.env.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Coverage
+coverage/
+
+# Temporary files
+tmp/
+temp/
